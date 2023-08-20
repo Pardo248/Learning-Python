@@ -24,8 +24,11 @@ age = input("how old are you? ")
 print(name)
 print(age)
 
+#puedes cambiar el valor y el texto
 name = 35
 age = "New Tipe"
 
 print(name)
 print(age)
+
+var_str_type: str = "Esta variable es str"#Pese a hacer esto aun se puede cambiar el tipo , funciona mas con el id o para ayudarnos a nosotros 
